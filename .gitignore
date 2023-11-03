@@ -1,0 +1,12 @@
+# Environment
+.env
+.venv
+
+# Distribution / packaging
+.Python
+bin/
+build/
+dist/
+lib/
+.installed.cfg
+MANIFEST
